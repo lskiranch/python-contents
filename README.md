@@ -1,2 +1,2 @@
 # python-contents
-Python content for quick practice
+Python content for quick learning/warmup
